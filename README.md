@@ -116,9 +116,9 @@ Remember that to meet the criteria of success, all artefacts must upload success
 
 <details>
 <summary>Task #5</summary>
-The engineering team is very happy with this feature, and want you to add a feature that includes versioning the application.
+The engineering team is very happy with this feature, and want you to add a feature that includes versioning the application. They also don't want to upload every single build to the CDN; they only want to upload it when they push to a production branch.
 
-When asked how they would like the application to be versioned, the VR team replies that they are leaving it to you to implement the feature the way you best see fit.
+When asked how they would like the application to be versioned and how to determine if the build should be deployed, the VR team replies that they are leaving it to you to implement the features the way you best see fit.
 </details>
 
 <br>
@@ -144,5 +144,7 @@ Improve the build pipeline as you see fit to make it as extensible and scalable 
 
 Consider what options a client or QA engineer would want available to them when building and how they would want to use the build pipeline.
 
-Feel free to create new scripts and workflows.
+Consider what CICD best practices you might be able to implement in your remaining time.
+
+Feel free to create new scripts and workflows, and modify the repository as you see fit. The only things you can't change are that you must use the unmodified `build.sh` and `upload.sh` in the `cli` directory.
 </details>
