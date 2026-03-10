@@ -40,7 +40,7 @@ Your submission should be link to a Git repository that contains, at minimum;
 - The `.github/workflows/build.yaml` file with correct directory structure
 - The `cli` directory and *unmodified* `build.sh` and `upload.sh` scripts within it from this repo
 - Any other supporting files you choose to create, including any notes
-- The GitHub Action and any other resultant pipelines should be fully functional and runable
+- The GitHub Action and any other resultant pipelines should be fully functional and runnable
 
 Please email your submission as a link to the resulting Git repository (please ensure its [visibility](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#changing-a-repositorys-visibility) is set to Public) to [will.chapman@prismsvr.com](will.chapman@prismsvr.com)
 
