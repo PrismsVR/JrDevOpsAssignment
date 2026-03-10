@@ -32,7 +32,7 @@ Please keep notes of the issues you found along the way and what you fix.
 This is an open-book assignment and you are welcome to use any resources or mateirals you deem necessary to complete it.
 
 ## Submission
-Your submission should be a Git repository that contains, at minimum;
+Your submission should be link to a Git repository that contains, at minimum;
 - The `.github/workflows/build.yaml` file with correct directory structure
 - The `cli` directory and *unmodified* `build.sh` and `upload.sh` scripts within it from this repo
 - Any other supporting files you choose to create, including any notes
