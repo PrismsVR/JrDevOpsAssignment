@@ -31,6 +31,10 @@ Please keep notes of the issues you found along the way and what you fix.
 
 This is an open-book assignment and you are welcome to use any resources or mateirals you deem necessary to complete it.
 
+> **⚠️ Warning:**
+> <br>The build and upload scripts that the action makes calls to in the `cli` directory are designed to simulate external 3rd party processes and ***should not be modified***.
+> <br><u>Your submission should not include any changes to these two files.</u>
+
 ## Submission
 Your submission should be link to a Git repository that contains, at minimum;
 - The `.github/workflows/build.yaml` file with correct directory structure
@@ -42,9 +46,8 @@ Please email your submission as a link to the resulting Git repository (please e
 
 For any clarifications please email [will.chapman@prismsvr.com](will.chapman@prismsvr.com)
 
-> **⚠️ Warning:**
-> The build and upload scripts that the action makes calls to in the `cli` directory are designed to simulate external 3rd party processes and ***should not be modified***.
-> <br><u>Your submission should not include any changes to these two files.</u>
+> **❗Forking this repository is strongly discouraged to ensure the privacy of each applicant's submissions.**
+
 
 
 # Tasks
@@ -64,7 +67,7 @@ Recommended: Use this repository [as a template](https://docs.github.com/en/repo
 
 You can also create a new repository from scratch and copy this repository's structure into your new assignment repository.
 
-**Forking this repository is disabled to ensure the privacy of each applicant's submissions.**
+> **❗Forking this repository is strongly discouraged to ensure the privacy of each applicant's submissions.**
 </details>
 
 <br>
